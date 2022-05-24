@@ -9252,3 +9252,10 @@ yapf3:
   ubuntu:
     '*': [yapf3]
     xenial: null
+    
+    
+# for ROAMER
+python-cerberus-pip:
+  ubuntu:
+    pip:
+      packages: [cerberus]
