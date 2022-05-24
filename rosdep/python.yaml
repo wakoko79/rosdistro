@@ -9259,3 +9259,6 @@ python-cerberus-pip:
   ubuntu:
     pip:
       packages: [cerberus]
+      
+python-apscheduler:
+  ubuntu: [python-apscheduler]
